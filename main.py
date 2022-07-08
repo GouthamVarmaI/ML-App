@@ -1,7 +1,6 @@
 import streamlit as st
 from sklearn import datasets
 import numpy as np
-
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
