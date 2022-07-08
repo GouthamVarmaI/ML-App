@@ -86,6 +86,11 @@
     "ts-node": "^8.0.2",
     "typescript": "3.7.5"
   },
+  "engines":{
+    "node":"5.0.0"
+    "npm":"4.6.1"
+  },
+  
   "files": [
     "/oclif.manifest.json",
     "/bin",
